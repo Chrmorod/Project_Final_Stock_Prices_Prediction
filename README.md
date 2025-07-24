@@ -66,7 +66,7 @@ Basic model monitoring is provided via:
 - Logging outputs from Monte Carlo simulations
 - Comparing performance across models
 
-![Monitoring Banner](./images/dashboard.jpg)
+![Monitoring Banner](./images/dashboard.png)
 All metrics are stored and visualized through **MLflow**, allowing historical performance comparison.
 ---
 
@@ -122,6 +122,10 @@ cd Project_Final_Stock_Prices_Prediction
 - Set up environment and install dependencies
 ```bash
 make infra-up
+```
+or
+```bash
+STOCK=AAPL YEAR_BACK=4 make infra-up
 ```
 - Launch Jupyter Notebook for EDA or simulations
 ```bash
