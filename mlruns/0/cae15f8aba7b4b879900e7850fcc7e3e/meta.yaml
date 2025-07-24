@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/Project_%20Final_Stock_Prices_Prediction/mlruns/0/cae15f8aba7b4b879900e7850fcc7e3e/artifacts
+end_time: 1753218263852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cae15f8aba7b4b879900e7850fcc7e3e
+run_name: magnificent-snake-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753218262814
+status: 3
+tags: []
+user_id: Christian

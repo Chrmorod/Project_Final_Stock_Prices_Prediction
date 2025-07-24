@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/Project_%20Final_Stock_Prices_Prediction/mlruns/0/14f2e50244454668b58db93a203ab684/artifacts
+end_time: 1753125302792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14f2e50244454668b58db93a203ab684
+run_name: sassy-roo-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753125301789
+status: 3
+tags: []
+user_id: Christian

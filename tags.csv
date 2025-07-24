@@ -1,0 +1,133 @@
+key,value,run_uuid
+mlflow.user,root,1e7a012cf5ed42c59ddd1c08a360a9c2
+mlflow.source.name,/usr/local/bin/mage,1e7a012cf5ed42c59ddd1c08a360a9c2
+mlflow.source.type,LOCAL,1e7a012cf5ed42c59ddd1c08a360a9c2
+mlflow.runName,extract_AAPL_20250720_154036,1e7a012cf5ed42c59ddd1c08a360a9c2
+mlflow.user,root,ff81b91685ab4909b6f1c4ba5f047961
+mlflow.source.name,/usr/local/bin/mage,ff81b91685ab4909b6f1c4ba5f047961
+mlflow.source.type,LOCAL,ff81b91685ab4909b6f1c4ba5f047961
+mlflow.runName,montecarlo_30d_1000s,ff81b91685ab4909b6f1c4ba5f047961
+mlflow.user,root,40f165839c744a088e6ad4ccc68c451d
+mlflow.source.name,/usr/local/bin/mage,40f165839c744a088e6ad4ccc68c451d
+mlflow.source.type,LOCAL,40f165839c744a088e6ad4ccc68c451d
+mlflow.runName,Run_1970-01-01,40f165839c744a088e6ad4ccc68c451d
+mlflow.log-model.history,"[{""run_id"": ""40f165839c744a088e6ad4ccc68c451d"", ""artifact_path"": ""arima_model"", ""utc_time_created"": ""2025-07-20 15:40:46.760115"", ""flavors"": {""python_function"": {""loader_module"": ""mlflow.statsmodels"", ""python_version"": ""3.10.14"", ""data"": ""model.statsmodels"", ""env"": {""conda"": ""conda.yaml"", ""virtualenv"": ""python_env.yaml""}}, ""statsmodels"": {""statsmodels_version"": ""0.14.5"", ""data"": ""model.statsmodels"", ""code"": null}}, ""model_uuid"": ""eab519047162482b8aa7a9f17534753a"", ""mlflow_version"": ""2.12.1"", ""model_size_bytes"": 8521732}]",40f165839c744a088e6ad4ccc68c451d
+mlflow.user,root,4d030e3cc1254582b00186db450ff7c0
+mlflow.source.name,/usr/local/bin/mage,4d030e3cc1254582b00186db450ff7c0
+mlflow.source.type,LOCAL,4d030e3cc1254582b00186db450ff7c0
+mlflow.runName,Run_1970-01-01,4d030e3cc1254582b00186db450ff7c0
+mlflow.log-model.history,"[{""run_id"": ""4d030e3cc1254582b00186db450ff7c0"", ""artifact_path"": ""lstm_model"", ""utc_time_created"": ""2025-07-20 15:41:12.485185"", ""flavors"": {""keras"": {""data"": ""data"", ""keras_version"": ""3.10.0"", ""keras_backend"": ""tensorflow"", ""save_exported_model"": false}, ""python_function"": {""loader_module"": ""mlflow.keras"", ""python_version"": ""3.10.14"", ""env"": {""conda"": ""conda.yaml"", ""virtualenv"": ""python_env.yaml""}}}, ""model_uuid"": ""fd579339305c470a83510abe98775c6b"", ""mlflow_version"": ""2.12.1"", ""model_size_bytes"": 424653}]",4d030e3cc1254582b00186db450ff7c0
+mlflow.user,root,1bb0b5ef40664323b51c6b030dcbde8b
+mlflow.source.name,/usr/local/bin/mage,1bb0b5ef40664323b51c6b030dcbde8b
+mlflow.source.type,LOCAL,1bb0b5ef40664323b51c6b030dcbde8b
+mlflow.runName,upbeat-newt-545,1bb0b5ef40664323b51c6b030dcbde8b
+mlflow.user,root,eca7b6bd8ef043cc9bfd1c286ee0f5bb
+mlflow.source.name,/usr/local/bin/mage,eca7b6bd8ef043cc9bfd1c286ee0f5bb
+mlflow.source.type,LOCAL,eca7b6bd8ef043cc9bfd1c286ee0f5bb
+mlflow.runName,extract_AAPL_20250720_165126,eca7b6bd8ef043cc9bfd1c286ee0f5bb
+mlflow.user,root,ff0c1281af644c209344596ca08a0d6e
+mlflow.source.name,/usr/local/bin/mage,ff0c1281af644c209344596ca08a0d6e
+mlflow.source.type,LOCAL,ff0c1281af644c209344596ca08a0d6e
+mlflow.runName,montecarlo_30d_1000s,ff0c1281af644c209344596ca08a0d6e
+mlflow.user,root,3f820750fac649b7b74c17b1cf577291
+mlflow.source.name,/usr/local/bin/mage,3f820750fac649b7b74c17b1cf577291
+mlflow.source.type,LOCAL,3f820750fac649b7b74c17b1cf577291
+mlflow.runName,Run_1970-01-01,3f820750fac649b7b74c17b1cf577291
+mlflow.log-model.history,"[{""run_id"": ""3f820750fac649b7b74c17b1cf577291"", ""artifact_path"": ""arima_model"", ""utc_time_created"": ""2025-07-20 16:51:37.303644"", ""flavors"": {""python_function"": {""loader_module"": ""mlflow.statsmodels"", ""python_version"": ""3.10.14"", ""data"": ""model.statsmodels"", ""env"": {""conda"": ""conda.yaml"", ""virtualenv"": ""python_env.yaml""}}, ""statsmodels"": {""statsmodels_version"": ""0.14.5"", ""data"": ""model.statsmodels"", ""code"": null}}, ""model_uuid"": ""84619a725b484a0f85c46a49e0088d9a"", ""mlflow_version"": ""2.12.1"", ""model_size_bytes"": 6823684}]",3f820750fac649b7b74c17b1cf577291
+mlflow.user,root,48273fa8a1ff46f48faa28b7a4dd72e8
+mlflow.source.name,/usr/local/bin/mage,48273fa8a1ff46f48faa28b7a4dd72e8
+mlflow.source.type,LOCAL,48273fa8a1ff46f48faa28b7a4dd72e8
+mlflow.runName,Run_1970-01-01,48273fa8a1ff46f48faa28b7a4dd72e8
+mlflow.log-model.history,"[{""run_id"": ""48273fa8a1ff46f48faa28b7a4dd72e8"", ""artifact_path"": ""lstm_model"", ""utc_time_created"": ""2025-07-20 16:51:58.550929"", ""flavors"": {""keras"": {""data"": ""data"", ""keras_version"": ""3.10.0"", ""keras_backend"": ""tensorflow"", ""save_exported_model"": false}, ""python_function"": {""loader_module"": ""mlflow.keras"", ""python_version"": ""3.10.14"", ""env"": {""conda"": ""conda.yaml"", ""virtualenv"": ""python_env.yaml""}}}, ""model_uuid"": ""9378c8a6b44a451bbe94fc868e8c97db"", ""mlflow_version"": ""2.12.1"", ""model_size_bytes"": 424653}]",48273fa8a1ff46f48faa28b7a4dd72e8
+mlflow.user,root,af3fad5e7f58499b818b08f715a03591
+mlflow.source.name,/usr/local/bin/mage,af3fad5e7f58499b818b08f715a03591
+mlflow.source.type,LOCAL,af3fad5e7f58499b818b08f715a03591
+mlflow.runName,amusing-shrimp-281,af3fad5e7f58499b818b08f715a03591
+mlflow.user,root,0b93b36f8e1240319a2ac983b8f29575
+mlflow.source.name,/usr/local/bin/mage,0b93b36f8e1240319a2ac983b8f29575
+mlflow.source.type,LOCAL,0b93b36f8e1240319a2ac983b8f29575
+mlflow.runName,extract_AAPL_20250720_184506,0b93b36f8e1240319a2ac983b8f29575
+mlflow.user,root,a44d24dcbe064051b41f969cafeb0437
+mlflow.source.name,/usr/local/bin/mage,a44d24dcbe064051b41f969cafeb0437
+mlflow.source.type,LOCAL,a44d24dcbe064051b41f969cafeb0437
+mlflow.runName,montecarlo_30d_1000s,a44d24dcbe064051b41f969cafeb0437
+mlflow.user,root,a5a39e96571f431c81a0f3c568c9c568
+mlflow.source.name,/usr/local/bin/mage,a5a39e96571f431c81a0f3c568c9c568
+mlflow.source.type,LOCAL,a5a39e96571f431c81a0f3c568c9c568
+mlflow.runName,Run_1970-01-01,a5a39e96571f431c81a0f3c568c9c568
+mlflow.log-model.history,"[{""run_id"": ""a5a39e96571f431c81a0f3c568c9c568"", ""artifact_path"": ""arima_model"", ""utc_time_created"": ""2025-07-20 18:45:16.103625"", ""flavors"": {""python_function"": {""loader_module"": ""mlflow.statsmodels"", ""python_version"": ""3.10.14"", ""data"": ""model.statsmodels"", ""env"": {""conda"": ""conda.yaml"", ""virtualenv"": ""python_env.yaml""}}, ""statsmodels"": {""statsmodels_version"": ""0.14.5"", ""data"": ""model.statsmodels"", ""code"": null}}, ""model_uuid"": ""2b5cde53466e4fa4a3a128b24ae42829"", ""mlflow_version"": ""2.12.1"", ""model_size_bytes"": 8521732}]",a5a39e96571f431c81a0f3c568c9c568
+mlflow.user,root,84407ce9c4d24dbf8205d96a6ae78979
+mlflow.source.name,/usr/local/bin/mage,84407ce9c4d24dbf8205d96a6ae78979
+mlflow.source.type,LOCAL,84407ce9c4d24dbf8205d96a6ae78979
+mlflow.runName,Run_1970-01-01,84407ce9c4d24dbf8205d96a6ae78979
+mlflow.log-model.history,"[{""run_id"": ""84407ce9c4d24dbf8205d96a6ae78979"", ""artifact_path"": ""lstm_model"", ""utc_time_created"": ""2025-07-20 18:45:42.580715"", ""flavors"": {""keras"": {""data"": ""data"", ""keras_version"": ""3.10.0"", ""keras_backend"": ""tensorflow"", ""save_exported_model"": false}, ""python_function"": {""loader_module"": ""mlflow.keras"", ""python_version"": ""3.10.14"", ""env"": {""conda"": ""conda.yaml"", ""virtualenv"": ""python_env.yaml""}}}, ""model_uuid"": ""bc0fe6a4801a435cbdf8d3b76f523ea2"", ""mlflow_version"": ""2.12.1"", ""model_size_bytes"": 424653}]",84407ce9c4d24dbf8205d96a6ae78979
+mlflow.user,root,c27aa6c1f5f343cea5e394aa42300e3d
+mlflow.source.name,/usr/local/bin/mage,c27aa6c1f5f343cea5e394aa42300e3d
+mlflow.source.type,LOCAL,c27aa6c1f5f343cea5e394aa42300e3d
+mlflow.runName,hilarious-smelt-247,c27aa6c1f5f343cea5e394aa42300e3d
+mlflow.user,root,260869880a3148149949631816a19515
+mlflow.source.name,/usr/local/bin/mage,260869880a3148149949631816a19515
+mlflow.source.type,LOCAL,260869880a3148149949631816a19515
+mlflow.runName,extract_AAPL_20250720_185553,260869880a3148149949631816a19515
+mlflow.user,root,4c73f849621e42329f0a494190e21389
+mlflow.source.name,/usr/local/bin/mage,4c73f849621e42329f0a494190e21389
+mlflow.source.type,LOCAL,4c73f849621e42329f0a494190e21389
+mlflow.runName,montecarlo_30d_1000s,4c73f849621e42329f0a494190e21389
+mlflow.user,root,c8aeacdde6e949a3bb927a9072770d1c
+mlflow.source.name,/usr/local/bin/mage,c8aeacdde6e949a3bb927a9072770d1c
+mlflow.source.type,LOCAL,c8aeacdde6e949a3bb927a9072770d1c
+mlflow.runName,Run_1970-01-01,c8aeacdde6e949a3bb927a9072770d1c
+mlflow.log-model.history,"[{""run_id"": ""c8aeacdde6e949a3bb927a9072770d1c"", ""artifact_path"": ""arima_model"", ""utc_time_created"": ""2025-07-20 18:56:02.393564"", ""flavors"": {""python_function"": {""loader_module"": ""mlflow.statsmodels"", ""python_version"": ""3.10.14"", ""data"": ""model.statsmodels"", ""env"": {""conda"": ""conda.yaml"", ""virtualenv"": ""python_env.yaml""}}, ""statsmodels"": {""statsmodels_version"": ""0.14.5"", ""data"": ""model.statsmodels"", ""code"": null}}, ""model_uuid"": ""c2b10efba2ab41c19a3bf659b0f49ca1"", ""mlflow_version"": ""2.12.1"", ""model_size_bytes"": 8521732}]",c8aeacdde6e949a3bb927a9072770d1c
+mlflow.user,root,fc98c827b2ea44b486fc30ed3f667179
+mlflow.source.name,/usr/local/bin/mage,fc98c827b2ea44b486fc30ed3f667179
+mlflow.source.type,LOCAL,fc98c827b2ea44b486fc30ed3f667179
+mlflow.runName,Run_1970-01-01,fc98c827b2ea44b486fc30ed3f667179
+mlflow.log-model.history,"[{""run_id"": ""fc98c827b2ea44b486fc30ed3f667179"", ""artifact_path"": ""lstm_model"", ""utc_time_created"": ""2025-07-20 18:56:26.429728"", ""flavors"": {""keras"": {""data"": ""data"", ""keras_version"": ""3.10.0"", ""keras_backend"": ""tensorflow"", ""save_exported_model"": false}, ""python_function"": {""loader_module"": ""mlflow.keras"", ""python_version"": ""3.10.14"", ""env"": {""conda"": ""conda.yaml"", ""virtualenv"": ""python_env.yaml""}}}, ""model_uuid"": ""981a5768187449ab949039c13b47a976"", ""mlflow_version"": ""2.12.1"", ""model_size_bytes"": 424653}]",fc98c827b2ea44b486fc30ed3f667179
+mlflow.user,root,190f7ec4d04e4223a21ad8f9b76f0ccb
+mlflow.source.name,/usr/local/bin/mage,190f7ec4d04e4223a21ad8f9b76f0ccb
+mlflow.source.type,LOCAL,190f7ec4d04e4223a21ad8f9b76f0ccb
+mlflow.runName,mysterious-skunk-909,190f7ec4d04e4223a21ad8f9b76f0ccb
+mlflow.user,root,0cd155482ac94320acc154f09f844e4b
+mlflow.source.name,/usr/local/bin/mage,0cd155482ac94320acc154f09f844e4b
+mlflow.source.type,LOCAL,0cd155482ac94320acc154f09f844e4b
+mlflow.runName,extract_AAPL_20250720_195429,0cd155482ac94320acc154f09f844e4b
+mlflow.user,root,d1aac5af357240c9b47649c8dd36f13d
+mlflow.source.name,/usr/local/bin/mage,d1aac5af357240c9b47649c8dd36f13d
+mlflow.source.type,LOCAL,d1aac5af357240c9b47649c8dd36f13d
+mlflow.runName,montecarlo_30d_1000s,d1aac5af357240c9b47649c8dd36f13d
+mlflow.user,root,59eac766e9e64bbb94cb9e9527c20881
+mlflow.source.name,/usr/local/bin/mage,59eac766e9e64bbb94cb9e9527c20881
+mlflow.source.type,LOCAL,59eac766e9e64bbb94cb9e9527c20881
+mlflow.runName,Run_1970-01-01,59eac766e9e64bbb94cb9e9527c20881
+mlflow.log-model.history,"[{""run_id"": ""59eac766e9e64bbb94cb9e9527c20881"", ""artifact_path"": ""arima_model"", ""utc_time_created"": ""2025-07-20 19:54:37.650893"", ""flavors"": {""python_function"": {""loader_module"": ""mlflow.statsmodels"", ""python_version"": ""3.10.14"", ""data"": ""model.statsmodels"", ""env"": {""conda"": ""conda.yaml"", ""virtualenv"": ""python_env.yaml""}}, ""statsmodels"": {""statsmodels_version"": ""0.14.5"", ""data"": ""model.statsmodels"", ""code"": null}}, ""model_uuid"": ""71c1461433714a24a8dd07780d066351"", ""mlflow_version"": ""2.12.1"", ""model_size_bytes"": 8521732}]",59eac766e9e64bbb94cb9e9527c20881
+mlflow.user,root,9ad76da311284fff8025747fa30e4ebc
+mlflow.source.name,/usr/local/bin/mage,9ad76da311284fff8025747fa30e4ebc
+mlflow.source.type,LOCAL,9ad76da311284fff8025747fa30e4ebc
+mlflow.runName,Run_1970-01-01,9ad76da311284fff8025747fa30e4ebc
+mlflow.log-model.history,"[{""run_id"": ""9ad76da311284fff8025747fa30e4ebc"", ""artifact_path"": ""lstm_model"", ""utc_time_created"": ""2025-07-20 19:55:08.811452"", ""flavors"": {""keras"": {""data"": ""data"", ""keras_version"": ""3.10.0"", ""keras_backend"": ""tensorflow"", ""save_exported_model"": false}, ""python_function"": {""loader_module"": ""mlflow.keras"", ""python_version"": ""3.10.14"", ""env"": {""conda"": ""conda.yaml"", ""virtualenv"": ""python_env.yaml""}}}, ""model_uuid"": ""b7a12b0c08ad406999cc1551c6ef6e79"", ""mlflow_version"": ""2.12.1"", ""model_size_bytes"": 424653}]",9ad76da311284fff8025747fa30e4ebc
+mlflow.user,root,8fed7a962b694594913a64517d3a8055
+mlflow.source.name,/usr/local/bin/mage,8fed7a962b694594913a64517d3a8055
+mlflow.source.type,LOCAL,8fed7a962b694594913a64517d3a8055
+mlflow.runName,able-tern-30,8fed7a962b694594913a64517d3a8055
+mlflow.user,root,099bc0298b1e467ebb84f9f2e4d164ef
+mlflow.source.name,/usr/local/bin/mage,099bc0298b1e467ebb84f9f2e4d164ef
+mlflow.source.type,LOCAL,099bc0298b1e467ebb84f9f2e4d164ef
+mlflow.runName,extract_AAPL_20250720_201433,099bc0298b1e467ebb84f9f2e4d164ef
+mlflow.user,root,33a8e19b51154d95b95abee3754bf3c3
+mlflow.source.name,/usr/local/bin/mage,33a8e19b51154d95b95abee3754bf3c3
+mlflow.source.type,LOCAL,33a8e19b51154d95b95abee3754bf3c3
+mlflow.runName,montecarlo_30d_1000s,33a8e19b51154d95b95abee3754bf3c3
+mlflow.user,root,bd7334aa48554d6d8666a29cc966dbb6
+mlflow.source.name,/usr/local/bin/mage,bd7334aa48554d6d8666a29cc966dbb6
+mlflow.source.type,LOCAL,bd7334aa48554d6d8666a29cc966dbb6
+mlflow.runName,Run_1970-01-01,bd7334aa48554d6d8666a29cc966dbb6
+mlflow.log-model.history,"[{""run_id"": ""bd7334aa48554d6d8666a29cc966dbb6"", ""artifact_path"": ""arima_model"", ""utc_time_created"": ""2025-07-20 20:14:41.852253"", ""flavors"": {""python_function"": {""loader_module"": ""mlflow.statsmodels"", ""python_version"": ""3.10.14"", ""data"": ""model.statsmodels"", ""env"": {""conda"": ""conda.yaml"", ""virtualenv"": ""python_env.yaml""}}, ""statsmodels"": {""statsmodels_version"": ""0.14.5"", ""data"": ""model.statsmodels"", ""code"": null}}, ""model_uuid"": ""ad6a4b0fb0094be6ac3c400b609ae393"", ""mlflow_version"": ""2.12.1"", ""model_size_bytes"": 8521732}]",bd7334aa48554d6d8666a29cc966dbb6
+mlflow.user,root,e2b27b7462d94c33b265a257a3a91044
+mlflow.source.name,/usr/local/bin/mage,e2b27b7462d94c33b265a257a3a91044
+mlflow.source.type,LOCAL,e2b27b7462d94c33b265a257a3a91044
+mlflow.runName,Run_1970-01-01,e2b27b7462d94c33b265a257a3a91044
+mlflow.log-model.history,"[{""run_id"": ""e2b27b7462d94c33b265a257a3a91044"", ""artifact_path"": ""lstm_model"", ""utc_time_created"": ""2025-07-20 20:15:09.390125"", ""flavors"": {""keras"": {""data"": ""data"", ""keras_version"": ""3.10.0"", ""keras_backend"": ""tensorflow"", ""save_exported_model"": false}, ""python_function"": {""loader_module"": ""mlflow.keras"", ""python_version"": ""3.10.14"", ""env"": {""conda"": ""conda.yaml"", ""virtualenv"": ""python_env.yaml""}}}, ""model_uuid"": ""840a7ab976f64bcd90c595c8266b7448"", ""mlflow_version"": ""2.12.1"", ""model_size_bytes"": 424653}]",e2b27b7462d94c33b265a257a3a91044
+mlflow.user,root,5a1cb67a0bab4c929a37032c596a4a22
+mlflow.source.name,/usr/local/bin/mage,5a1cb67a0bab4c929a37032c596a4a22
+mlflow.source.type,LOCAL,5a1cb67a0bab4c929a37032c596a4a22
+mlflow.runName,thundering-hound-793,5a1cb67a0bab4c929a37032c596a4a22

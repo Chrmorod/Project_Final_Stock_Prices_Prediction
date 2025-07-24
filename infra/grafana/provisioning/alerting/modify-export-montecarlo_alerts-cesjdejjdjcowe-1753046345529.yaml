@@ -1,0 +1,88 @@
+apiVersion: 1
+groups:
+    - orgId: 1
+      name: montecarlo_alerts
+      folder: alerts
+      interval: 1m
+      rules:
+        - uid: cesjdejjdjcowe
+          title: alert_expected_montecarlo_high
+          condition: C
+          data:
+            - refId: A
+              queryType: table
+              relativeTimeRange:
+                from: 600
+                to: 0
+              datasourceUid: desjc15ze9v5sd
+              model:
+                datasource:
+                    type: frser-sqlite-datasource
+                    uid: desjc15ze9v5sd
+                intervalMs: 1000
+                maxDataPoints: 43200
+                queryText: select value from metrics where key like '%montecarlo'
+                queryType: table
+                rawQueryText: select value from metrics where key like '%montecarlo'
+                refId: A
+                timeColumns:
+                    - time
+                    - ts
+            - refId: B
+              datasourceUid: __expr__
+              model:
+                conditions:
+                    - evaluator:
+                        params: []
+                        type: gt
+                      operator:
+                        type: and
+                      query:
+                        params:
+                            - B
+                      reducer:
+                        params: []
+                        type: last
+                      type: query
+                datasource:
+                    type: __expr__
+                    uid: __expr__
+                expression: A
+                intervalMs: 1000
+                maxDataPoints: 43200
+                reducer: last
+                refId: B
+                type: reduce
+            - refId: C
+              datasourceUid: __expr__
+              model:
+                conditions:
+                    - evaluator:
+                        params:
+                            - 300
+                        type: gt
+                      operator:
+                        type: and
+                      query:
+                        params:
+                            - C
+                      reducer:
+                        params: []
+                        type: last
+                      type: query
+                datasource:
+                    type: __expr__
+                    uid: __expr__
+                expression: B
+                intervalMs: 1000
+                maxDataPoints: 43200
+                refId: C
+                type: threshold
+          noDataState: NoData
+          execErrState: Error
+          for: 1m
+          annotations: {}
+          labels: {}
+          isPaused: false
+          notification_settings:
+            receiver: grafana-default-email

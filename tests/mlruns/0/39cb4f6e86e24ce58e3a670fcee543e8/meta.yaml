@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/Project_Final_Stock_Prices_Prediction/tests/mlruns/0/39cb4f6e86e24ce58e3a670fcee543e8/artifacts
+end_time: 1753301403748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39cb4f6e86e24ce58e3a670fcee543e8
+run_name: spiffy-shrike-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753301402743
+status: 3
+tags: []
+user_id: Christian
