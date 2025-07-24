@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/Project_%20Final_Stock_Prices_Prediction/mlruns/0/bb7983c6a14a42c59893af35a143c492/artifacts
+end_time: 1753376434271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb7983c6a14a42c59893af35a143c492
+run_name: agreeable-rook-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753376433595
+status: 3
+tags: []
+user_id: codespace

@@ -4,7 +4,7 @@
 
 This project aims to forecast future stock prices using a variety of statistical and machine learning models such as ARIMA, LSTM, and Monte Carlo simulations.
 
-Time series data in financial markets is complex, non-linear, and highly volatile—posing a significant challenge.  
+Time series data in financial markets is complex, non-linear, and highly volatile—posing a significant challenge.
 The goal is to provide a **reproducible**, **scalable**, and **production-ready** platform for managing the complete machine learning lifecycle: from data ingestion and transformation, to training, experiment tracking, and deployment.
 
 ---
@@ -35,16 +35,16 @@ Both **experiment tracking** and **model registry** are actively used and embedd
 
 The project uses **[Mage](https://www.mage.ai/)** as a workflow orchestration tool to automate and schedule ML pipelines. Mage orchestrates:
 
-- Data extraction  
-- Model training  
-- Evaluation  
-- Export processes  
+- Data extraction
+- Model training
+- Evaluation
+- Export processes
 
 Each step is modularized into Mage pipelines, enabling:
 
-- 🔄 Reproducible, automated workflows  
-- 🛠 Monitoring and retrying failed steps  
-- 🧩 A visual interface for debugging and versioning  
+- 🔄 Reproducible, automated workflows
+- 🛠 Monitoring and retrying failed steps
+- 🧩 A visual interface for debugging and versioning
 
 This orchestration enables robust and maintainable MLOps and can be deployed both locally and in the cloud.
 

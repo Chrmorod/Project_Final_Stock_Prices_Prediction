@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/Project_%20Final_Stock_Prices_Prediction/mlruns/0/5c09400fc7eb4d1d871157e4354d39b5/artifacts
+end_time: 1753376727308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c09400fc7eb4d1d871157e4354d39b5
+run_name: kindly-gnat-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753376726506
+status: 3
+tags: []
+user_id: codespace

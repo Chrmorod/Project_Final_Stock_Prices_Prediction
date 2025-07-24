@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/Project_%20Final_Stock_Prices_Prediction/mlruns/0/70f7212b53ca495894452cae265325f3/artifacts
+end_time: 1753374354161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70f7212b53ca495894452cae265325f3
+run_name: abrasive-stoat-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753374353463
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/Project_%20Final_Stock_Prices_Prediction/mlruns/0/e92c4c2a69fe43ceb3b629e2b6419744/artifacts
+end_time: 1753374297331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e92c4c2a69fe43ceb3b629e2b6419744
+run_name: rogue-calf-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753374296560
+status: 3
+tags: []
+user_id: codespace

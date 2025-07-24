@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/Project_%20Final_Stock_Prices_Prediction/mlruns/0/86c74acec6a949328ac8df176d836c47/artifacts
+end_time: 1753375841078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86c74acec6a949328ac8df176d836c47
+run_name: able-sponge-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753375840363
+status: 3
+tags: []
+user_id: codespace

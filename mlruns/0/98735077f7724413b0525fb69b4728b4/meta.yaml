@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/Project_%20Final_Stock_Prices_Prediction/mlruns/0/98735077f7724413b0525fb69b4728b4/artifacts
+end_time: 1753374723050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98735077f7724413b0525fb69b4728b4
+run_name: peaceful-owl-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753374722334
+status: 3
+tags: []
+user_id: codespace

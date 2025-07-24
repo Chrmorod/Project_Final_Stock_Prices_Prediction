@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/Project_%20Final_Stock_Prices_Prediction/mlruns/0/a3ea5dd039d94600a8a858aabda6a1c3/artifacts
+end_time: 1753374590236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3ea5dd039d94600a8a858aabda6a1c3
+run_name: funny-mare-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753374589540
+status: 3
+tags: []
+user_id: codespace

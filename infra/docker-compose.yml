@@ -58,10 +58,10 @@ services:
     environment:
       - MLFLOW_TRACKING_URI=http://0.0.0.0:5000
     command: >
-      mlflow server --host 0.0.0.0 --port 5000 
+      mlflow server --host 0.0.0.0 --port 5000
       --backend-store-uri sqlite:////mlflow_data/mlflow.db
     volumes:
-      - ./mlflow_data:/mlflow_data 
+      - ./mlflow_data:/mlflow_data
     networks:
       - app-network
 
@@ -72,7 +72,7 @@ services:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: example
     ports:
-      - "5353:5353" 
+      - "5353:5353"
     networks:
       - back-tier
 

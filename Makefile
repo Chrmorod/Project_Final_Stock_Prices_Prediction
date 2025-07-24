@@ -31,7 +31,7 @@ eda:
 
 test:
 	pytest
-	
+
 help:
 	@echo "Comands availables:"
 	@echo "  install        - Install dependencies of the project"

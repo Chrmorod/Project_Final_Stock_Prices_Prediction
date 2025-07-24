@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/Project_%20Final_Stock_Prices_Prediction/mlruns/0/fd83ddad13d7438a9f4628f88826e82c/artifacts
+end_time: 1753375721985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd83ddad13d7438a9f4628f88826e82c
+run_name: bittersweet-duck-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753375721225
+status: 3
+tags: []
+user_id: codespace

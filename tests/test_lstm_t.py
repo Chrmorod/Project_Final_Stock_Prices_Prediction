@@ -7,14 +7,16 @@ import numpy as np
 import sys
 import os
 
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from infra.mlops.predict_stock.transformers.lstm_t import transform
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from infra.mlops.predict_stock.transformers.lstm_t import transform  # noqa: E402
+
 
 @pytest.fixture
 def fake_price_data():
     dates = pd.bdate_range(start="2023-01-01", periods=200)
     close_prices = np.linspace(100, 200, 200)
     return pd.DataFrame({"Close": close_prices}, index=dates)
+
 
 @patch("infra.mlops.predict_stock.transformers.lstm_t.mlflow.register_model")
 @patch("infra.mlops.predict_stock.transformers.lstm_t.mlflow.keras.log_model")
@@ -23,7 +25,16 @@ def fake_price_data():
 @patch("infra.mlops.predict_stock.transformers.lstm_t.mlflow.set_tracking_uri")
 @patch("infra.mlops.predict_stock.transformers.lstm_t.Sequential.fit")
 @patch("infra.mlops.predict_stock.transformers.lstm_t.Sequential.predict")
-def test_transform_lstm(mock_predict, mock_fit, mock_set_uri, mock_set_exp, mock_start_run, mock_log_model, mock_register_model, fake_price_data):
+def test_transform_lstm(
+    mock_predict,
+    mock_fit,
+    mock_set_uri,
+    mock_set_exp,
+    mock_start_run,
+    mock_log_model,
+    mock_register_model,
+    fake_price_data,
+):
     fake_preds = np.linspace(0.5, 1.0, 30).reshape(-1, 1)
     mock_predict.side_effect = [np.array([[val]]) for val in fake_preds]
 

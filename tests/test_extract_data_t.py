@@ -6,15 +6,19 @@ import sys
 import os
 import pandas as pd
 
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from infra.mlops.predict_stock.data_loaders.data_extract_t import extract_data
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from infra.mlops.predict_stock.data_loaders.data_extract_t import (  # noqa: E402
+    extract_data,  # noqa: E402
+)  # noqa: E402
+
 
 @pytest.fixture
 def mock_yf_data():
-    return pd.DataFrame({
-        'Close': [100, 101, 102],
-        'Volume': [1000, 1100, 1050]
-    }, index=pd.date_range(start='2021-01-01', periods=3))
+    return pd.DataFrame(
+        {"Close": [100, 101, 102], "Volume": [1000, 1100, 1050]},
+        index=pd.date_range(start="2021-01-01", periods=3),
+    )
+
 
 @patch("infra.mlops.predict_stock.data_loaders.data_extract_t.yf")
 @patch("infra.mlops.predict_stock.data_loaders.data_extract_t.mlflow")

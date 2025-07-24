@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/Project_%20Final_Stock_Prices_Prediction/mlruns/0/5d4efc90543449e89c40eb7b3d7a30aa/artifacts
+end_time: 1753375819950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d4efc90543449e89c40eb7b3d7a30aa
+run_name: salty-loon-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753375819242
+status: 3
+tags: []
+user_id: codespace
